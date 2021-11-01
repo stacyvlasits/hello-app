@@ -1,2 +1,2 @@
-# hello-plugin
-Sample Share plugin
+# hello-app
+Sample Share App
