@@ -1,10 +1,8 @@
 {
-    "name": "@buildrs/hello.js",
+    "name": "@stacyvlasits/hello-app.js",
     "version": "0.0.1",
     "description": "Demonstration App for Buildrs",
     "main": "dist/hello.js",
-    "type": "module",
-    "module": "dist/hello.module.js",
     "repository": {
       "type": "git",
       "url": "git+https://github.com/buildrs/hello-app.git"
