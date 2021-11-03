@@ -1,0 +1,37 @@
+{
+    "name": "@stacyvlasits/hello.js",
+    "version": "0.0.1",
+    "description": "Demonstration App for Buildrs",
+    "main": "dist/hello.js",
+    "type": "module",
+    "module": "dist/hello.module.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/buildrs/hello-app.git"
+    },
+    "keywords": [
+      "javascript",
+      "css",
+      "html",
+      "react",
+      "bim",
+      "buildrs",
+      "IFC",
+      "CAD"
+    ],
+    "author": "Stacy Vlasits",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/buildrs/hello-app/issues"
+    },
+    "homepage": "https://github.com/buildrs/hello-app/blob/main/README.md",
+    "peerDependencies": {
+        "react": "^15.6",
+        "@material-ui/core": "^4.12.1",
+        "@material-ui/icons": "^4.11.2",
+        "@mui/icons-material": "^5.0.1",
+        "@mui/lab": "^5.0.0-alpha.48",
+        "@mui/material": "^5.0.1",
+        "@mui/styled-engine": "^5.0.1"
+    }
+  }
