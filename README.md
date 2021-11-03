@@ -17,7 +17,7 @@ To use it, add it as an npm dependency of your installation of Buildrs Share.
 app.jsx
 ```
 import React from 'react';
-import HelloApp from 'from '@buildrs/hello-app';';
+import HelloApp from 'from '@stacyvlasits/hello-app';';
 
 
 function App() {
