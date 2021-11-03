@@ -1,5 +1,5 @@
 {
-    "name": "@stacyvlasits/hello.js",
+    "name": "@buildrs/hello.js",
     "version": "0.0.1",
     "description": "Demonstration App for Buildrs",
     "main": "dist/hello.js",
@@ -26,12 +26,8 @@
     },
     "homepage": "https://github.com/buildrs/hello-app/blob/main/README.md",
     "peerDependencies": {
-        "react": "^15.6",
+        "react": ">15.6",
         "@material-ui/core": "^4.12.1",
-        "@material-ui/icons": "^4.11.2",
-        "@mui/icons-material": "^5.0.1",
-        "@mui/lab": "^5.0.0-alpha.48",
-        "@mui/material": "^5.0.1",
-        "@mui/styled-engine": "^5.0.1"
+        "@mui/material": "^5.0.1"
     }
   }
